@@ -1,0 +1,8 @@
+ User-agent: *
+ Disallow: /404.html
+ Disallow: /2018/
+ Disallow: /2019/
+ Disallow: /2020/
+ Disallow: /p/
+ 
+ Sitemap: https://gustavovalerio.com.br/sitemap.xml
