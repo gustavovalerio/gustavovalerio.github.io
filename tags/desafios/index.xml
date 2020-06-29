@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>desafios on Gustavo Valério</title><link>https://gustavovalerio.com.br/tags/desafios/</link><description>Recent content in desafios on Gustavo Valério</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sat, 06 Jun 2020 20:33:23 -0300</lastBuildDate><atom:link href="https://gustavovalerio.com.br/tags/desafios/index.xml" rel="self" type="application/rss+xml"/><item><title>Dualidade</title><link>https://gustavovalerio.com.br/quarteto/dualidade/</link><pubDate>Sat, 06 Jun 2020 20:33:23 -0300</pubDate><guid>https://gustavovalerio.com.br/quarteto/dualidade/</guid><description>Este amor ostentado renascendo no ser faz o sonho encantado desfolhar, fenecer&amp;hellip;</description></item><item><title>Os Organismos</title><link>https://gustavovalerio.com.br/soneto/os-organismos/</link><pubDate>Thu, 04 Jun 2020 20:17:13 -0300</pubDate><guid>https://gustavovalerio.com.br/soneto/os-organismos/</guid><description>O gás carbônico premeu os ares, pulmões, amores, vidas e direitos&amp;hellip; Desvirginou corais rudimentares, turvou os mares, antes tão perfeitos!</description></item><item><title>Graves Greves</title><link>https://gustavovalerio.com.br/quarteto/graves-greves/</link><pubDate>Thu, 04 Jun 2020 13:25:00 -0300</pubDate><guid>https://gustavovalerio.com.br/quarteto/graves-greves/</guid><description>Se grafas graves medos nas memórias nas greves breves dos papéis diversos o grito grifa dores mil em versos!</description></item><item><title>Os Domos</title><link>https://gustavovalerio.com.br/quarteto/os-domos/</link><pubDate>Wed, 03 Jun 2020 18:18:21 -0300</pubDate><guid>https://gustavovalerio.com.br/quarteto/os-domos/</guid><description>Hão de chorar por ela os cinamomos, Murchando as flores ao tombar do dia.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desafios on Gustavo Valério</title>
+    <link>https://gustavovalerio.com.br/tags/desafios/</link>
+    <description>Recent content in Desafios on Gustavo Valério</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 06 Jun 2020 20:33:23 -0300</lastBuildDate>
+    
+	<atom:link href="https://gustavovalerio.com.br/tags/desafios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dualidade</title>
+      <link>https://gustavovalerio.com.br/quarteto/dualidade/</link>
+      <pubDate>Sat, 06 Jun 2020 20:33:23 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/quarteto/dualidade/</guid>
+      <description>Este amor ostentado renascendo no ser faz o sonho encantado desfolhar, fenecer&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Os Organismos</title>
+      <link>https://gustavovalerio.com.br/soneto/os-organismos/</link>
+      <pubDate>Thu, 04 Jun 2020 20:17:13 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/soneto/os-organismos/</guid>
+      <description>O gás carbônico premeu os ares, pulmões, amores, vidas e direitos&amp;hellip; Desvirginou corais rudimentares, turvou os mares, antes tão perfeitos!</description>
+    </item>
+    
+    <item>
+      <title>Graves Greves</title>
+      <link>https://gustavovalerio.com.br/quarteto/graves-greves/</link>
+      <pubDate>Thu, 04 Jun 2020 13:25:00 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/quarteto/graves-greves/</guid>
+      <description>Se grafas graves medos nas memórias nas greves breves dos papéis diversos o grito grifa dores mil em versos!</description>
+    </item>
+    
+    <item>
+      <title>Os Domos</title>
+      <link>https://gustavovalerio.com.br/quarteto/os-domos/</link>
+      <pubDate>Wed, 03 Jun 2020 18:18:21 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/quarteto/os-domos/</guid>
+      <description>Hão de chorar por ela os cinamomos, Murchando as flores ao tombar do dia.</description>
+    </item>
+    
+  </channel>
+</rss>

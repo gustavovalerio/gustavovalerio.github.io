@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hendecassílabo on Gustavo Valério</title><link>https://gustavovalerio.com.br/tags/hendecassilabo/</link><description>Recent content in hendecassílabo on Gustavo Valério</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Wed, 31 Oct 2018 15:08:49 -0300</lastBuildDate><atom:link href="https://gustavovalerio.com.br/tags/hendecassilabo/index.xml" rel="self" type="application/rss+xml"/><item><title>Luta Incessante</title><link>https://gustavovalerio.com.br/soneto/luta-incessante/</link><pubDate>Wed, 31 Oct 2018 15:08:49 -0300</pubDate><guid>https://gustavovalerio.com.br/soneto/luta-incessante/</guid><description>O peso do mundo sufocando a morte a morte sufocada, sufoca a vida a vida sufocada, sufoca a sorte a sorte sufocada é mal resolvida.</description></item><item><title>Joaninha</title><link>https://gustavovalerio.com.br/soneto/joaninha/</link><pubDate>Thu, 28 Jun 2018 15:08:49 -0300</pubDate><guid>https://gustavovalerio.com.br/soneto/joaninha/</guid><description>Alguns humanos são como erva daninha afirmam saber quase toda a ciência porém para obtê-la, não têm paciência e sobrevivem numa vida mesquinha.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hendecassilabo on Gustavo Valério</title>
+    <link>https://gustavovalerio.com.br/tags/hendecassilabo/</link>
+    <description>Recent content in Hendecassilabo on Gustavo Valério</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 31 Oct 2018 15:08:49 -0300</lastBuildDate>
+    
+	<atom:link href="https://gustavovalerio.com.br/tags/hendecassilabo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Luta Incessante</title>
+      <link>https://gustavovalerio.com.br/soneto/luta-incessante/</link>
+      <pubDate>Wed, 31 Oct 2018 15:08:49 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/soneto/luta-incessante/</guid>
+      <description>O peso do mundo sufocando a morte a morte sufocada, sufoca a vida a vida sufocada, sufoca a sorte a sorte sufocada é mal resolvida.</description>
+    </item>
+    
+    <item>
+      <title>Joaninha</title>
+      <link>https://gustavovalerio.com.br/soneto/joaninha/</link>
+      <pubDate>Thu, 28 Jun 2018 15:08:49 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/soneto/joaninha/</guid>
+      <description>Alguns humanos são como erva daninha afirmam saber quase toda a ciência porém para obtê-la, não têm paciência e sobrevivem numa vida mesquinha.</description>
+    </item>
+    
+  </channel>
+</rss>

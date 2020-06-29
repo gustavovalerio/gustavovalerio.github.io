@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tercetos on Gustavo Valério</title><link>https://gustavovalerio.com.br/terceto/</link><description>Recent content in Tercetos on Gustavo Valério</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sat, 13 Jun 2020 14:57:26 -0300</lastBuildDate><atom:link href="https://gustavovalerio.com.br/terceto/index.xml" rel="self" type="application/rss+xml"/><item><title>Carência</title><link>https://gustavovalerio.com.br/terceto/carencia/</link><pubDate>Sat, 13 Jun 2020 14:57:26 -0300</pubDate><guid>https://gustavovalerio.com.br/terceto/carencia/</guid><description>Na carência do amor consentimos que o vazio pesado do peito ultrapasse o mais alto dos cimos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tercetos on Gustavo Valério</title>
+    <link>https://gustavovalerio.com.br/terceto/</link>
+    <description>Recent content in Tercetos on Gustavo Valério</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 13 Jun 2020 14:57:26 -0300</lastBuildDate>
+    
+	<atom:link href="https://gustavovalerio.com.br/terceto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Carência</title>
+      <link>https://gustavovalerio.com.br/terceto/carencia/</link>
+      <pubDate>Sat, 13 Jun 2020 14:57:26 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/terceto/carencia/</guid>
+      <description>Na carência do amor consentimos que o vazio pesado do peito ultrapasse o mais alto dos cimos.</description>
+    </item>
+    
+  </channel>
+</rss>

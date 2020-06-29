@@ -1,4 +1,7 @@
  User-agent: *
+ 
+ Disallow: /email-enviado/
+ Disallow: /contato/
  Disallow: /404.html
  Disallow: /2018/
  Disallow: /2019/
