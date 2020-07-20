@@ -404,7 +404,7 @@ article blockquote{
 }
 @media screen and (min-width:83em){
     body{
-        font-size: 3.2em;
+        font-size: 3em;
     }
 
     #sitewrapper{
@@ -446,12 +446,12 @@ article blockquote{
 }
 @media screen and (min-width:94em){
     body{
-        font-size: 3.5em;
+        font-size: 3.3em;
     }
 }
 @media screen and (min-width:112em){
 
     body{
-        font-size: 3.7em;
+        font-size: 3.6em;
     }
 }
