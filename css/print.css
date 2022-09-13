@@ -1,0 +1,32 @@
+* {
+    box-shadow: none  !important;
+    text-shadow: none !important;
+    background-color: #fff  !important;
+    background-image: none  !important
+}
+
+html {
+    margin: 0  !important;
+    font-size: 3.5pt  !important
+}
+
+body {
+    margin: 0.5cm   !important
+}
+
+body, article {    
+    color: #111  !important
+}
+
+#content blockquote {
+    color: #06a  !important
+}
+
+#hmain{
+    border-bottom: 1px dotted #ccc  !important
+}
+
+#hmain nav, #comments, #fmain, #content footer, .pager{
+    display: none  !important;
+    overflow: hidden  !important
+}
