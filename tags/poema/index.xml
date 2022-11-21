@@ -1,2 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>poema on Gustavo Valério</title><link>https://gustavovalerio.com.br/tags/poema/</link><description>Recent content in poema on Gustavo Valério</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Thu, 11 Nov 2021 13:51:00 -0300</lastBuildDate><atom:link href="https://gustavovalerio.com.br/tags/poema/index.xml" rel="self" type="application/rss+xml"/><item><title>O Buraco</title><link>https://gustavovalerio.com.br/poema/o-buraco/</link><pubDate>Thu, 11 Nov 2021 13:51:00 -0300</pubDate><guid>https://gustavovalerio.com.br/poema/o-buraco/</guid><description>Nas asas da desgraça me perdi Caindo no buraco que cavei&amp;hellip; À noite, tudo escuro, então, não vi O monstro humano que me transformei&amp;hellip;</description></item><item><title>O Medo</title><link>https://gustavovalerio.com.br/poema/o-medo/</link><pubDate>Sun, 17 Oct 2021 00:00:00 -0300</pubDate><guid>https://gustavovalerio.com.br/poema/o-medo/</guid><description>Eis o medo que separa: Coração que pulsa, para&amp;hellip;
-É um som que reverbera Musicais da Nova Era&amp;hellip;</description></item><item><title>Não Vês</title><link>https://gustavovalerio.com.br/poema/nao-ves/</link><pubDate>Sun, 10 Oct 2021 01:45:15 -0300</pubDate><guid>https://gustavovalerio.com.br/poema/nao-ves/</guid><description>Se não fosse o teu amor Eu não seria O homem que sou agora&amp;hellip;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poema on Gustavo Valério</title>
+    <link>https://gustavovalerio.com.br/tags/poema/</link>
+    <description>Recent content in poema on Gustavo Valério</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 11 Nov 2021 13:51:00 -0300</lastBuildDate><atom:link href="https://gustavovalerio.com.br/tags/poema/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O Buraco</title>
+      <link>https://gustavovalerio.com.br/poema/o-buraco/</link>
+      <pubDate>Thu, 11 Nov 2021 13:51:00 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/poema/o-buraco/</guid>
+      <description>Nas asas da desgraça me perdi Caindo no buraco que cavei&amp;hellip; À noite, tudo escuro, então, não vi O monstro humano que me transformei&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>O Medo</title>
+      <link>https://gustavovalerio.com.br/poema/o-medo/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/poema/o-medo/</guid>
+      <description>Eis o medo que separa: Coração que pulsa, para&amp;hellip;
+É um som que reverbera Musicais da Nova Era&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Não Vês</title>
+      <link>https://gustavovalerio.com.br/poema/nao-ves/</link>
+      <pubDate>Sun, 10 Oct 2021 01:45:15 -0300</pubDate>
+      
+      <guid>https://gustavovalerio.com.br/poema/nao-ves/</guid>
+      <description>Se não fosse o teu amor Eu não seria O homem que sou agora&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
