@@ -12,15 +12,15 @@
 &lt;style&gt;
  #book{
  display: flex;
- margin: 0 0 2rem 0;
+ margin: 0 0 2em 0;
 
  &amp;&gt; * {
- padding: .5rem;
- border:.1rem solid #999
+ padding: .5em;
+ border:.1em solid #999
  }
 
  figure {
- width: 7rem;
+ width: 7em;
  img{ width: 100% }
  }
 
@@ -43,15 +43,15 @@
 &lt;style&gt;
  #book{
  display: flex;
- margin: 0 0 2rem 0;
+ margin: 0 0 2em 0;
 
  &amp;&gt; * {
- padding: .5rem;
- border:.1rem solid #999
+ padding: .5em;
+ border:.1em solid #999
  }
 
  figure {
- width: 7rem;
+ width: 7em;
  img{ width: 100% }
  }
 
@@ -75,15 +75,15 @@
 &lt;style&gt;
  #book{
  display: flex;
- margin: 0 0 2rem 0;
+ margin: 0 0 2em 0;
 
  &amp;&gt; * {
- padding: .5rem;
- border:.1rem solid #999
+ padding: .5em;
+ border:.1em solid #999
  }
 
  figure {
- width: 7rem;
+ width: 7em;
  img{ width: 100% }
  }
 
@@ -106,15 +106,15 @@
 &lt;style&gt;
  #book{
  display: flex;
- margin: 0 0 2rem 0;
+ margin: 0 0 2em 0;
 
  &amp;&gt; * {
- padding: .5rem;
- border:.1rem solid #999
+ padding: .5em;
+ border:.1em solid #999
  }
 
  figure {
- width: 7rem;
+ width: 7em;
  img{ width: 100% }
  }
 
@@ -705,1419 +705,710 @@ Iludidas distorceram o mapa astral&lt;br&gt;
 enquanto cantarolavam vitoriosas.&lt;/p&gt;</description></item><item><title>Último Voo</title><link>https://gustavovalerio.com.br/soneto/ultimo-voo/</link><pubDate>Thu, 10 May 2018 15:08:49 -0300</pubDate><guid>https://gustavovalerio.com.br/soneto/ultimo-voo/</guid><description>&lt;p&gt;Maria acordou mui fraca e sem força&lt;br&gt;
 e fez extrema força p&amp;rsquo;ra acordar&lt;br&gt;
 e de dor sentiu o âmago amargar&lt;br&gt;
-amordaçada em sua vida insossa.&lt;/p&gt;</description></item><item><title>Ana Beatriz Cardoso</title><link>https://gustavovalerio.com.br/autor/ana-beatriz-cardoso/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/ana-beatriz-cardoso/</guid><description/></item><item><title>Autores</title><link>https://gustavovalerio.com.br/autores/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autores/</guid><description>&lt;ul class=list&gt;
-
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
- 
- &lt;li&gt;&lt;a href="https://gustavovalerio.com.br/autor/gustavo-valerio-ferreira" title="Gustavo Valério Ferreira"&gt;Gustavo Valério Ferreira&lt;/a&gt;&lt;/li&gt;
- 
- 
- 
- &lt;li&gt;&lt;a href="https://gustavovalerio.com.br/autor/ana-beatriz-cardoso" title="Ana Beatriz Cardoso"&gt;Ana Beatriz Cardoso&lt;/a&gt;&lt;/li&gt;
- 
- 
- 
- &lt;li&gt;&lt;a href="https://gustavovalerio.com.br/autor/gabriel-zanon-garcia" title="Gabriel Zanon Garcia"&gt;Gabriel Zanon Garcia&lt;/a&gt;&lt;/li&gt;
- 
- 
- 
- &lt;li&gt;&lt;a href="https://gustavovalerio.com.br/autor/luciano-didimo" title="Luciano Dídimo"&gt;Luciano Dídimo&lt;/a&gt;&lt;/li&gt;
- 
- 
- 
- &lt;li&gt;&lt;a href="https://gustavovalerio.com.br/autor/gilliard-santos" title="Gilliard Santos"&gt;Gilliard Santos&lt;/a&gt;&lt;/li&gt;
- 
- &lt;/ul&gt;</description></item><item><title>Categorias</title><link>https://gustavovalerio.com.br/categorias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/categorias/</guid><description>&lt;ul class=list&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/autor/" title="Autor"&gt;
- Autor
- &lt;/a&gt;
+amordaçada em sua vida insossa.&lt;/p&gt;</description></item><item><title>Ana Beatriz Cardoso</title><link>https://gustavovalerio.com.br/autor/ana-beatriz-cardoso/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/ana-beatriz-cardoso/</guid><description>&lt;p&gt;ANA BEATRIZ CARDOSO RODRIGUES nasceu no dia 19 de julho de 2002, na região de Fortaleza, no Ceará. Filha de pais cearenses – José Ednardo e Francisca Edna –, herdou deles a coragem e a força para lutar pelos seus sonhos.&lt;/p&gt;</description></item><item><title>Arquivos</title><link>https://gustavovalerio.com.br/arquivos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/arquivos/</guid><description>&lt;ul class="list" id="archives"&gt;&lt;section id="2025" class="archives-list"&gt;
+ &lt;h6&gt;2025&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2025/setembro'&gt;setembro&lt;/summary&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/soneto/na-gaveta/" title="Na Gaveta"&gt;
+ Na Gaveta&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 12:
+ &lt;a href="https://gustavovalerio.com.br/soneto/alma-sangrada/" title="Alma Sangrada"&gt;
+ Alma Sangrada&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 13:
+ &lt;a href="https://gustavovalerio.com.br/soneto/em-teu-olhar/" title="Em Teu Olhar"&gt;
+ Em Teu Olhar&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/soneto/historico/" title="Histórico"&gt;
+ Histórico&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2025/agosto'&gt;agosto&lt;/summary&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/conto/dilema/" title="Dilema"&gt;
+ Dilema&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;section id="2024" class="archives-list"&gt;
+ &lt;h6&gt;2024&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2024/março'&gt;março&lt;/summary&gt;&lt;li&gt;Dia 26:
+ &lt;a href="https://gustavovalerio.com.br/soneto/urutau/" title="Urutau"&gt;
+ Urutau&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;section id="2023" class="archives-list"&gt;
+ &lt;h6&gt;2023&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2023/dezembro'&gt;dezembro&lt;/summary&gt;&lt;li&gt;Dia 12:
+ &lt;a href="https://gustavovalerio.com.br/soneto/maceio-afunda/" title="Maceió Afunda"&gt;
+ Maceió Afunda&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;section id="2022" class="archives-list"&gt;
+ &lt;h6&gt;2022&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2022/abril'&gt;abril&lt;/summary&gt;&lt;li&gt;Dia 09:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/ramos-e-espinhos/" title="Ramos e Espinhos"&gt;
+ Ramos e Espinhos&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2022/março'&gt;março&lt;/summary&gt;&lt;li&gt;Dia 09:
+ &lt;a href="https://gustavovalerio.com.br/poema/nato/" title="Nato"&gt;
+ Nato&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2022/fevereiro'&gt;fevereiro&lt;/summary&gt;&lt;li&gt;Dia 26:
+ &lt;a href="https://gustavovalerio.com.br/poema/mortos-nao-morrem/" title="Mortos Não Morrem"&gt;
+ Mortos Não Morrem&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;section id="2021" class="archives-list"&gt;
+ &lt;h6&gt;2021&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2021/dezembro'&gt;dezembro&lt;/summary&gt;&lt;li&gt;Dia 02:
+ &lt;a href="https://gustavovalerio.com.br/poema/o-sofrimento/" title="O Sofrimento"&gt;
+ O Sofrimento&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/poema/cada-passo/" title="Cada Passo"&gt;
+ Cada Passo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/natal-em-mim/" title="Natal em Mim"&gt;
+ Natal em Mim&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/novembro'&gt;novembro&lt;/summary&gt;&lt;li&gt;Dia 11:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/as-lembrancas/" title="As Lembranças"&gt;
+ As Lembranças&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 11:
+ &lt;a href="https://gustavovalerio.com.br/poema/o-buraco/" title="O Buraco"&gt;
+ O Buraco&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 27:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/coracao-branco/" title="Coração Branco"&gt;
+ Coração Branco&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/outubro'&gt;outubro&lt;/summary&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/poema/nao-ves/" title="Não Vês"&gt;
+ Não Vês&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/poema/futilidades/" title="Futilidades"&gt;
+ Futilidades&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/poema/o-medo/" title="O Medo"&gt;
+ O Medo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/corrida-volatil/" title="Corrida Volátil"&gt;
+ Corrida Volátil&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 31:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-fome/" title="A Fome"&gt;
+ A Fome&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/setembro'&gt;setembro&lt;/summary&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/antolhos/" title="Antolhos"&gt;
+ Antolhos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 19:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/as-rosas/" title="As Rosas"&gt;
+ As Rosas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 19:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/cobras-no-jardim/" title="Cobras No Jardim"&gt;
+ Cobras No Jardim&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 19:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/prefacio-da-agonia/" title="Prefácio da Agonia"&gt;
+ Prefácio da Agonia&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/agosto'&gt;agosto&lt;/summary&gt;&lt;li&gt;Dia 08:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/amor-de-pai/" title="Amor de Pai"&gt;
+ Amor de Pai&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 14:
+ &lt;a href="https://gustavovalerio.com.br/narracao/gilliard-santos/no-meu-quintal/" title="No Meu Quintal"&gt;
+ No Meu Quintal&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 28:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/beija-flor/" title="Beija-flor"&gt;
+ Beija-flor&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/julho'&gt;julho&lt;/summary&gt;&lt;li&gt;Dia 04:
+ &lt;a href="https://gustavovalerio.com.br/narracao/escola-revivalista/na-gaveta/" title="Na Gaveta"&gt;
+ Na Gaveta&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 14:
+ &lt;a href="https://gustavovalerio.com.br/narracao/escola-revivalista/alma-sangrada/" title="Alma Sangrada"&gt;
+ Alma Sangrada&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/ressurreicoes-primaveris/" title="Ressurreições Primaveris"&gt;
+ Ressurreições Primaveris&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/o-nosso-amor/" title="O Nosso Amor"&gt;
+ O Nosso Amor&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/junho'&gt;junho&lt;/summary&gt;&lt;li&gt;Dia 07:
+ &lt;a href="https://gustavovalerio.com.br/narracao/gilliard-santos/sobre-a-liberdade/" title="Sobre a Liberdade"&gt;
+ Sobre a Liberdade&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-eternidade/" title="A Eternidade"&gt;
+ A Eternidade&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-colheita/" title="A Colheita"&gt;
+ A Colheita&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/maio'&gt;maio&lt;/summary&gt;&lt;li&gt;Dia 23:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/as-piramides/" title="As Pirâmides"&gt;
+ As Pirâmides&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/abril'&gt;abril&lt;/summary&gt;&lt;li&gt;Dia 11:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/o-amor/" title="O Amor"&gt;
+ O Amor&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/março'&gt;março&lt;/summary&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/os-pequenos-gestos/" title="Os Pequenos Gestos"&gt;
+ Os Pequenos Gestos&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/fevereiro'&gt;fevereiro&lt;/summary&gt;&lt;li&gt;Dia 12:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-menina-da-chuva/" title="A Menina da Chuva"&gt;
+ A Menina da Chuva&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/cinquenta-anos/" title="Cinquenta Anos"&gt;
+ Cinquenta Anos&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2021/janeiro'&gt;janeiro&lt;/summary&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/o-sol-existe/" title="O Sol Existe"&gt;
+ O Sol Existe&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 31:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-rosa-verde/" title="A Rosa Verde"&gt;
+ A Rosa Verde&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;section id="2020" class="archives-list"&gt;
+ &lt;h6&gt;2020&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2020/dezembro'&gt;dezembro&lt;/summary&gt;&lt;li&gt;Dia 06:
+ &lt;a href="https://gustavovalerio.com.br/soneto/pendulo-da-morte/" title="Pêndulo Da Morte"&gt;
+ Pêndulo Da Morte&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/menino-luz/" title="Menino Luz"&gt;
+ Menino Luz&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/pos-pandemia/" title="Pós-Pandemia"&gt;
+ Pós-Pandemia&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/novembro'&gt;novembro&lt;/summary&gt;&lt;li&gt;Dia 11:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/entropia/" title="Entropia"&gt;
+ Entropia&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-boa-solidao/" title="A Boa Solidão"&gt;
+ A Boa Solidão&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/os-pensamentos/" title="Os Pensamentos"&gt;
+ Os Pensamentos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/soneto/sem-razao/" title="Sem Razão"&gt;
+ Sem Razão&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/outubro'&gt;outubro&lt;/summary&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/o-missionario/" title="O Missionário"&gt;
+ O Missionário&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 26:
+ &lt;a href="https://gustavovalerio.com.br/soneto/finitude/" title="Finitude"&gt;
+ Finitude&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-vida/" title="Soneto à Vida"&gt;
+ Soneto à Vida&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/setembro'&gt;setembro&lt;/summary&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-verdadeira-humildade/" title="A Verdadeira Humildade"&gt;
+ A Verdadeira Humildade&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 20:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/o-ceu/" title="O Céu"&gt;
+ O Céu&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/soneto/novo-mundo/" title="Novo Mundo"&gt;
+ Novo Mundo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-sabedoria-de-teresinha/" title="A Sabedoria de Teresinha"&gt;
+ A Sabedoria de Teresinha&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/agosto'&gt;agosto&lt;/summary&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/ressuscitado-no-amor/" title="Ressuscitado no Amor"&gt;
+ Ressuscitado no Amor&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/soneto/vela/" title="Vela"&gt;
+ Vela&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 20:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-saudade-azul/" title="A Saudade Azul"&gt;
+ A Saudade Azul&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/no-mar/" title="No Mar"&gt;
+ No Mar&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/julho'&gt;julho&lt;/summary&gt;&lt;li&gt;Dia 06:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/foi-no-teu-silencio/" title="Foi No Teu Silêncio"&gt;
+ Foi No Teu Silêncio&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 07:
+ &lt;a href="https://gustavovalerio.com.br/soneto/borboletas/" title="Borboletas"&gt;
+ Borboletas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 09:
+ &lt;a href="https://gustavovalerio.com.br/soneto/contrassenso/" title="Contrassenso"&gt;
+ Contrassenso&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/quarentena-prolongada/" title="Quarentena Prolongada"&gt;
+ Quarentena Prolongada&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/soneto/de-4-em-4-anos/" title="De 4 Em 4 Anos"&gt;
+ De 4 Em 4 Anos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 16:
+ &lt;a href="https://gustavovalerio.com.br/soneto/soldado-ferido/" title="Soldado Ferido"&gt;
+ Soldado Ferido&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 20:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-luz/" title="A Luz"&gt;
+ A Luz&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/meu-apego/" title="Meu Apego"&gt;
+ Meu Apego&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/junho'&gt;junho&lt;/summary&gt;&lt;li&gt;Dia 01:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/eva/" title="Eva"&gt;
+ Eva&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 02:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/o-verde-lodo/" title="O Verde-lodo"&gt;
+ O Verde-lodo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 03:
+ &lt;a href="https://gustavovalerio.com.br/soneto/conflito-de-interesse/" title="Conflito de Interesse"&gt;
+ Conflito de Interesse&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 03:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/os-domos/" title="Os Domos"&gt;
+ Os Domos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 04:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/graves-greves/" title="Graves Greves"&gt;
+ Graves Greves&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 04:
+ &lt;a href="https://gustavovalerio.com.br/soneto/os-organismos/" title="Os Organismos"&gt;
+ Os Organismos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 06:
+ &lt;a href="https://gustavovalerio.com.br/soneto/coitadinha/" title="Coitadinha"&gt;
+ Coitadinha&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 06:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/dualidade/" title="Dualidade"&gt;
+ Dualidade&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 07:
+ &lt;a href="https://gustavovalerio.com.br/soneto/entorpecente/" title="Entorpecente"&gt;
+ Entorpecente&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 08:
+ &lt;a href="https://gustavovalerio.com.br/soneto/infinitus/" title="Infinitus"&gt;
+ Infinitus&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 09:
+ &lt;a href="https://gustavovalerio.com.br/soneto/angelus-sanctus/" title="Angelus Sanctus"&gt;
+ Angelus Sanctus&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 12:
+ &lt;a href="https://gustavovalerio.com.br/soneto/magis-ad-summitatem/" title="Magis Ad Summitatem"&gt;
+ Magis Ad Summitatem&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 13:
+ &lt;a href="https://gustavovalerio.com.br/terceto/carencia/" title="Carência"&gt;
+ Carência&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/defasada/" title="Defasada"&gt;
+ Defasada&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 16:
+ &lt;a href="https://gustavovalerio.com.br/soneto/maria/" title="Maria"&gt;
+ Maria&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-vulto/" title="O Vulto"&gt;
+ O Vulto&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 19:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/do-corona/" title="Soneto Do Corona"&gt;
+ Soneto Do Corona&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 20:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/as-janelas/" title="As Janelas"&gt;
+ As Janelas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-esperanca-em-dois-sonetos/" title="A Esperança em Dois Sonetos"&gt;
+ A Esperança em Dois Sonetos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/flor-de-resistencia/" title="Flor De Resistência"&gt;
+ Flor De Resistência&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/maio'&gt;maio&lt;/summary&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/danos-compulsorios/" title="Danos Compulsórios"&gt;
+ Danos Compulsórios&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 20:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/as-asas/" title="As Asas"&gt;
+ As Asas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 21:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/a-bela-dama-dorme/" title="A Bela Dama Dorme"&gt;
+ A Bela Dama Dorme&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/espelho-milenar/" title="Espelho Milenar"&gt;
+ Espelho Milenar&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 23:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/tres-tomos/" title="Três Tomos"&gt;
+ Três Tomos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 24:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/a-pedra/" title="A Pedra"&gt;
+ A Pedra&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 25:
+ &lt;a href="https://gustavovalerio.com.br/soneto/rota-oposta/" title="Rota Oposta"&gt;
+ Rota Oposta&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 26:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/ressurreto/" title="Ressurreto"&gt;
+ Ressurreto&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 27:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/eventos-finais/" title="Eventos Finais"&gt;
+ Eventos Finais&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 28:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/o-violino/" title="O Violino"&gt;
+ O Violino&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 29:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/ja-nao-e-mais-amor/" title="Já Não É Mais Amor"&gt;
+ Já Não É Mais Amor&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/o-estio/" title="O Estio"&gt;
+ O Estio&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 31:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/atos-rucos/" title="Atos Ruços"&gt;
+ Atos Ruços&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/abril'&gt;abril&lt;/summary&gt;&lt;li&gt;Dia 01:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/terminais-incolores/" title="Terminais Incolores"&gt;
+ Terminais Incolores&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 14:
+ &lt;a href="https://gustavovalerio.com.br/narracao/luciano-didimo/a-tempestade/" title="A Tempestade"&gt;
+ A Tempestade&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/março'&gt;março&lt;/summary&gt;&lt;li&gt;Dia 02:
+ &lt;a href="https://gustavovalerio.com.br/soneto/tristes-sonhos/" title="Tristes Sonhos"&gt;
+ Tristes Sonhos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/amplidao/" title="Amplidão"&gt;
+ Amplidão&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 19:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/de-tijolo-em-tijolo/" title="De Tijolo em Tijolo"&gt;
+ De Tijolo em Tijolo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 27:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/peito-comprimido/" title="Peito Comprimido"&gt;
+ Peito Comprimido&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 28:
+ &lt;a href="https://gustavovalerio.com.br/quarteto/sonhos-virulentos/" title="Sonhos Virulentos"&gt;
+ Sonhos Virulentos&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/fevereiro'&gt;fevereiro&lt;/summary&gt;&lt;li&gt;Dia 03:
+ &lt;a href="https://gustavovalerio.com.br/soneto/tempos-anormais/" title="Tempos Anormais"&gt;
+ Tempos Anormais&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 05:
+ &lt;a href="https://gustavovalerio.com.br/soneto/formulas-da-paz/" title="Fórmulas da Paz"&gt;
+ Fórmulas da Paz&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/soneto/mortos-vivos/" title="Mortos Vivos"&gt;
+ Mortos Vivos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-vulto-vivo/" title="O Vulto Vivo"&gt;
+ O Vulto Vivo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 24:
+ &lt;a href="https://gustavovalerio.com.br/soneto/na-casa/" title="Na Casa"&gt;
+ Na Casa&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2020/janeiro'&gt;janeiro&lt;/summary&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/soneto/esportes-alheios/" title="Esportes Alheios"&gt;
+ Esportes Alheios&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 21:
+ &lt;a href="https://gustavovalerio.com.br/sexteto/o-povo/" title="O Povo"&gt;
+ O Povo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 23:
+ &lt;a href="https://gustavovalerio.com.br/soneto/maus-planos/" title="Maus Planos"&gt;
+ Maus Planos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 24:
+ &lt;a href="https://gustavovalerio.com.br/soneto/augustos-versos/" title="Augustos Versos"&gt;
+ Augustos Versos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 25:
+ &lt;a href="https://gustavovalerio.com.br/soneto/vacas-magras/" title="Vacas Magras"&gt;
+ Vacas Magras&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 27:
+ &lt;a href="https://gustavovalerio.com.br/soneto/novos-cafezais/" title="Novos Cafezais"&gt;
+ Novos Cafezais&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 29:
+ &lt;a href="https://gustavovalerio.com.br/soneto/emudecimento/" title="Emudecimento"&gt;
+ Emudecimento&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/soneto/delirios-circulares/" title="Delírios Circulares"&gt;
+ Delírios Circulares&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;section id="2019" class="archives-list"&gt;
+ &lt;h6&gt;2019&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2019/agosto'&gt;agosto&lt;/summary&gt;&lt;li&gt;Dia 24:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-acidente/" title="O Acidente"&gt;
+ O Acidente&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 26:
+ &lt;a href="https://gustavovalerio.com.br/soneto/amazonia/" title="Amazônia"&gt;
+ Amazônia&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 28:
+ &lt;a href="https://gustavovalerio.com.br/noticia/versos-existenciais-e-o-novo-livro-do-poeta-paraibano-danilo-soares/" title="Versos Existenciais é o Novo Livro do Poeta Paraibano Danilo Soares"&gt;
+ Versos Existenciais é o Novo Livro do Poeta Paraibano Danilo Soares&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 31:
+ &lt;a href="https://gustavovalerio.com.br/soneto/atores-reais/" title="Atores Reais"&gt;
+ Atores Reais&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2019/junho'&gt;junho&lt;/summary&gt;&lt;li&gt;Dia 08:
+ &lt;a href="https://gustavovalerio.com.br/soneto/mais-uma-dor/" title="Mais Uma Dor"&gt;
+ Mais Uma Dor&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/soneto/tracos/" title="Traços"&gt;
+ Traços&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-verbo-pobre/" title="O Verbo Pobre"&gt;
+ O Verbo Pobre&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 23:
+ &lt;a href="https://gustavovalerio.com.br/soneto/compostos-desculturais/" title="Compostos Desculturais"&gt;
+ Compostos Desculturais&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 25:
+ &lt;a href="https://gustavovalerio.com.br/soneto/duas-luas/" title="Duas Luas"&gt;
+ Duas Luas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 26:
+ &lt;a href="https://gustavovalerio.com.br/soneto/duas-estrelas/" title="Duas Estrelas"&gt;
+ Duas Estrelas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 29:
+ &lt;a href="https://gustavovalerio.com.br/soneto/mantos-abismais/" title="Mantos Abismais"&gt;
+ Mantos Abismais&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2019/março'&gt;março&lt;/summary&gt;&lt;li&gt;Dia 02:
+ &lt;a href="https://gustavovalerio.com.br/soneto/graves-tinidos/" title="Graves Tinidos"&gt;
+ Graves Tinidos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 04:
+ &lt;a href="https://gustavovalerio.com.br/soneto/para-fora/" title="Para Fora"&gt;
+ Para Fora&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 07:
+ &lt;a href="https://gustavovalerio.com.br/soneto/letras-de-sangue/" title="Letras de Sangue"&gt;
+ Letras de Sangue&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 07:
+ &lt;a href="https://gustavovalerio.com.br/soneto/abraco-escuro/" title="Abraço Escuro"&gt;
+ Abraço Escuro&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 11:
+ &lt;a href="https://gustavovalerio.com.br/soneto/poema-transverso/" title="Poema Transverso"&gt;
+ Poema Transverso&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 11:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-ponto/" title="O Ponto"&gt;
+ O Ponto&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2019/fevereiro'&gt;fevereiro&lt;/summary&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/soneto/anjos-suicidas/" title="Anjos Suicidas"&gt;
+ Anjos Suicidas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/soneto/vida-que-agoniza/" title="Vida que Agoniza"&gt;
+ Vida que Agoniza&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 20:
+ &lt;a href="https://gustavovalerio.com.br/soneto/orbitas-possessivas/" title="Órbitas Possessivas"&gt;
+ Órbitas Possessivas&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 25:
+ &lt;a href="https://gustavovalerio.com.br/soneto/impacto/" title="Im[pacto]"&gt;
+ Im[pacto]&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 27:
+ &lt;a href="https://gustavovalerio.com.br/soneto/destrocos-internos/" title="Destroços Internos"&gt;
+ Destroços Internos&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;section id="2018" class="archives-list"&gt;
+ &lt;h6&gt;2018&lt;/h6&gt;&lt;details&gt;
+ &lt;summary id='2018/dezembro'&gt;dezembro&lt;/summary&gt;&lt;li&gt;Dia 02:
+ &lt;a href="https://gustavovalerio.com.br/entrevista/entrevistei-o-poeta-paraibano-danilo-soares-autor-do-livro-versos-substanciais/" title="Entrevistei o Poeta Paraibano Danilo Soares - Autor do Livro &amp;#39;Versos Substanciais&amp;#39;"&gt;
+ Entrevistei o Poeta Paraibano Danilo Soares - Autor do Livro &amp;#39;Versos Substanciais&amp;#39;&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 07:
+ &lt;a href="https://gustavovalerio.com.br/soneto/sandalo/" title="Sândalo"&gt;
+ Sândalo&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2018/novembro'&gt;novembro&lt;/summary&gt;&lt;li&gt;Dia 03:
+ &lt;a href="https://gustavovalerio.com.br/soneto/nanquim-vermelho/" title="Nanquim Vermelho"&gt;
+ Nanquim Vermelho&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 06:
+ &lt;a href="https://gustavovalerio.com.br/soneto/ecos-geneticos/" title="Ecos Genéticos"&gt;
+ Ecos Genéticos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 08:
+ &lt;a href="https://gustavovalerio.com.br/soneto/por-dentro/" title="Por Dentro"&gt;
+ Por Dentro&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 09:
+ &lt;a href="https://gustavovalerio.com.br/soneto/revertendo-a-morte/" title="Revertendo a Morte"&gt;
+ Revertendo a Morte&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/soneto/neblinas-nos-olhos/" title="Neblinas nos Olhos"&gt;
+ Neblinas nos Olhos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/soneto/chuva-de-sangue/" title="Chuva de Sangue"&gt;
+ Chuva de Sangue&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 21:
+ &lt;a href="https://gustavovalerio.com.br/soneto/por-direito/" title="Por Direito!"&gt;
+ Por Direito!&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/soneto/versos-negros/" title="Versos Negros"&gt;
+ Versos Negros&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2018/outubro'&gt;outubro&lt;/summary&gt;&lt;li&gt;Dia 19:
+ &lt;a href="https://gustavovalerio.com.br/soneto/meu-reflexo/" title="Meu Reflexo"&gt;
+ Meu Reflexo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 31:
+ &lt;a href="https://gustavovalerio.com.br/soneto/luta-incessante/" title="Luta Incessante"&gt;
+ Luta Incessante&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2018/setembro'&gt;setembro&lt;/summary&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/soneto/modelo-inconsciente/" title="Modelo Inconsciente"&gt;
+ Modelo Inconsciente&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 16:
+ &lt;a href="https://gustavovalerio.com.br/soneto/a-traicao/" title="A Traição"&gt;
+ A Traição&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2018/agosto'&gt;agosto&lt;/summary&gt;&lt;li&gt;Dia 02:
+ &lt;a href="https://gustavovalerio.com.br/soneto/aflicao/" title="Aflição"&gt;
+ Aflição&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 03:
+ &lt;a href="https://gustavovalerio.com.br/soneto/tortura/" title="Tortura"&gt;
+ Tortura&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 05:
+ &lt;a href="https://gustavovalerio.com.br/soneto/meus-sonetos/" title="Meus Sonetos"&gt;
+ Meus Sonetos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 07:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-sino/" title="O Sino"&gt;
+ O Sino&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 12:
+ &lt;a href="https://gustavovalerio.com.br/soneto/pulso-solar/" title="Pulso Solar"&gt;
+ Pulso Solar&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 14:
+ &lt;a href="https://gustavovalerio.com.br/soneto/quebrado/" title="Quebrado"&gt;
+ Quebrado&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-cimo/" title="O Cimo"&gt;
+ O Cimo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 16:
+ &lt;a href="https://gustavovalerio.com.br/soneto/cachoeira-venenosa/" title="Cachoeira Venenosa"&gt;
+ Cachoeira Venenosa&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2018/julho'&gt;julho&lt;/summary&gt;&lt;li&gt;Dia 04:
+ &lt;a href="https://gustavovalerio.com.br/soneto/orbe-da-morte/" title="Orbe da Morte"&gt;
+ Orbe da Morte&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 09:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-grito/" title="O Grito"&gt;
+ O Grito&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 18:
+ &lt;a href="https://gustavovalerio.com.br/soneto/infinito/" title="Infinito"&gt;
+ Infinito&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 19:
+ &lt;a href="https://gustavovalerio.com.br/soneto/uni-versos/" title="Uni Versos"&gt;
+ Uni Versos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/soneto/a-porta/" title="À Porta"&gt;
+ À Porta&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2018/junho'&gt;junho&lt;/summary&gt;&lt;li&gt;Dia 02:
+ &lt;a href="https://gustavovalerio.com.br/soneto/queimacao/" title="Queimação"&gt;
+ Queimação&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 03:
+ &lt;a href="https://gustavovalerio.com.br/soneto/minuto-longo/" title="Minuto Longo"&gt;
+ Minuto Longo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 11:
+ &lt;a href="https://gustavovalerio.com.br/soneto/violino-novo/" title="Violino Novo"&gt;
+ Violino Novo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 16:
+ &lt;a href="https://gustavovalerio.com.br/soneto/ela/" title="Ela"&gt;
+ Ela&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 17:
+ &lt;a href="https://gustavovalerio.com.br/soneto/alma/" title="Alma"&gt;
+ Alma&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 20:
+ &lt;a href="https://gustavovalerio.com.br/soneto/ultima-queda/" title="Última Queda"&gt;
+ Última Queda&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 23:
+ &lt;a href="https://gustavovalerio.com.br/soneto/eterno-descanso/" title="Eterno Descanso"&gt;
+ Eterno Descanso&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 25:
+ &lt;a href="https://gustavovalerio.com.br/soneto/amalgama/" title="Amálgama"&gt;
+ Amálgama&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 26:
+ &lt;a href="https://gustavovalerio.com.br/soneto/extraterrestre/" title="Extraterrestre"&gt;
+ Extraterrestre&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 27:
+ &lt;a href="https://gustavovalerio.com.br/soneto/sorte/" title="Sorte"&gt;
+ Sorte&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 28:
+ &lt;a href="https://gustavovalerio.com.br/soneto/joaninha/" title="Joaninha"&gt;
+ Joaninha&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 29:
+ &lt;a href="https://gustavovalerio.com.br/soneto/punhal/" title="Punhal"&gt;
+ Punhal&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;details&gt;
+ &lt;summary id='2018/maio'&gt;maio&lt;/summary&gt;&lt;li&gt;Dia 10:
+ &lt;a href="https://gustavovalerio.com.br/soneto/ultimo-voo/" title="Último Voo"&gt;
+ Último Voo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 15:
+ &lt;a href="https://gustavovalerio.com.br/soneto/fusao/" title="Fusão"&gt;
+ Fusão&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 21:
+ &lt;a href="https://gustavovalerio.com.br/soneto/tempos-lilithianos/" title="Tempos Lilithianos"&gt;
+ Tempos Lilithianos&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 22:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-lobo-a-coruja-e-a-lua/" title="O Lobo, a Coruja e a Lua"&gt;
+ O Lobo, a Coruja e a Lua&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 23:
+ &lt;a href="https://gustavovalerio.com.br/soneto/o-lobo/" title="O Lobo"&gt;
+ O Lobo&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 24:
+ &lt;a href="https://gustavovalerio.com.br/soneto/a-coruja/" title="A Coruja"&gt;
+ A Coruja&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 25:
+ &lt;a href="https://gustavovalerio.com.br/soneto/a-lua/" title="A Lua"&gt;
+ A Lua&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 27:
+ &lt;a href="https://gustavovalerio.com.br/soneto/despertar/" title="Despertar"&gt;
+ Despertar&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 29:
+ &lt;a href="https://gustavovalerio.com.br/soneto/novo-lar/" title="Novo Lar"&gt;
+ Novo Lar&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;Dia 30:
+ &lt;a href="https://gustavovalerio.com.br/soneto/penumbra/" title="Penumbra"&gt;
+ Penumbra&lt;/a&gt;
+ &lt;/li&gt;&lt;/details&gt;&lt;/section&gt;&lt;/ul&gt;</description></item><item><title>Categorias</title><link>https://gustavovalerio.com.br/categorias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/categorias/</guid><description>&lt;ul class="list" id="sections"&gt;&lt;li&gt;
+ &lt;a href="https://gustavovalerio.com.br/autores/" title="Autores"&gt;Autores&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/conto/" title="Conto"&gt;
- Conto
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/conto/" title="Conto"&gt;Conto&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/entrevista/" title="Entrevista"&gt;
- Entrevista
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/entrevista/" title="Entrevista"&gt;Entrevista&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/narracao/" title="Narração"&gt;
- Narração
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/narracao/" title="Narração"&gt;Narração&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/noticia/" title="Notícia"&gt;
- Notícia
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/noticia/" title="Notícia"&gt;Notícia&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/obras/" title="Obras"&gt;
- Obras
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/obras/" title="Obras"&gt;Obras&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/poema/" title="Poema"&gt;
- Poema
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/poema/" title="Poema"&gt;Poema&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/quarteto/" title="Quarteto"&gt;
- Quarteto
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/quarteto/" title="Quarteto"&gt;Quarteto&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/sexteto/" title="Sexteto"&gt;
- Sexteto
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/sexteto/" title="Sexteto"&gt;Sexteto&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/soneto/" title="Soneto"&gt;
- Soneto
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/soneto/" title="Soneto"&gt;Soneto&lt;/a&gt;
  &lt;/li&gt;&lt;li&gt;
- &lt;a href="https://gustavovalerio.com.br/terceto/" title="Terceto"&gt;
- Terceto
- &lt;/a&gt;
+ &lt;a href="https://gustavovalerio.com.br/terceto/" title="Terceto"&gt;Terceto&lt;/a&gt;
  &lt;/li&gt;&lt;/ul&gt;</description></item><item><title>Contato</title><link>https://gustavovalerio.com.br/contato/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/contato/</guid><description>&lt;div id="formsquash"&gt;
  &lt;form action="https://formsquash.io/f/WbedJnyrtWMmMEnVf4E3" method="POST"&gt;
  &lt;input type="text" name="Nome" placeholder="Nome Completo" required&gt;
  &lt;input type="email" name="email" placeholder="Seu e-mail" required&gt;
- &lt;input type="text" name="Mensagem" placeholder="Mensagem" required&gt;
+ &lt;textarea cols="45" rows="10" maxlength="65525" name="Mensagem" placeholder="Mensagem" required&gt;&lt;/textarea&gt;
  &lt;input type="hidden" name="_gotcha"&gt;
  &lt;input type="submit" value="Enviar"&gt;
  &lt;/form&gt;
 
  &lt;style&gt;
  #formsquash form {
- gap: .25rem;
+ gap: .25em;
  display: grid;
  margin: 0 auto;
- max-width: 40rem;
+ max-width: 40em;
 
  input {
  margin: 0;
  outline: none;
- padding: .5rem;
- border-radius: var(--radius, .3rem);
- color: var(--color-emphasis, #014468);
- border: 0.1rem solid var(--color-emphasis, #014468);
- box-shadow: .1rem .1rem .1rem var(--color-blk-2, #666);
+ padding: .5em;
+ border-radius: var(--radius, .3em);
+ color: var(--c-emphasis, #014468);
+ border: 0.1em solid var(--c-main-shadow-alpha, #666);
+ box-shadow: .1em .1em .1em var(--c-main-shadow-alpha, #666);
 
- &amp;[name="Mensagem"] { min-height: 30vh }
+ :focus {
+ outline: none
+ }
+
+ &amp;[name="Mensagem"] {
+ padding: 1em;
+ min-height: 30vh;
+ field-sizing: content;
+ scrollbar-width: none;
+ word-break: break-word;
+ overflow-wrap: break-word;
+ }
 
  &amp;[type="submit"] {
- color: var(--color-text-invert, #ddd);
- background: var(--color-emphasis, #014468);
+ color: var(--c-emphasis-inverse, #ddd);
+ background: var(--c-emphasis, #014468);
 
  &amp;:hover {
  opacity: .8;
- cursor: pointer
+ cursor: pointer;
  }
  }
  }
  }
  &lt;/style&gt;
-&lt;/div&gt;</description></item><item><title>Gabriel Zanon Garcia</title><link>https://gustavovalerio.com.br/autor/gabriel-zanon-garcia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/gabriel-zanon-garcia/</guid><description/></item><item><title>Gilliard Santos</title><link>https://gustavovalerio.com.br/autor/gilliard-santos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/gilliard-santos/</guid><description/></item><item><title>Gustavo Valério Ferreira</title><link>https://gustavovalerio.com.br/autor/gustavo-valerio-ferreira/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/gustavo-valerio-ferreira/</guid><description/></item><item><title>Luciano Dídimo</title><link>https://gustavovalerio.com.br/autor/luciano-didimo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/luciano-didimo/</guid><description/></item><item><title>Mensagem Recebida</title><link>https://gustavovalerio.com.br/email-enviado/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/email-enviado/</guid><description>&lt;blockquote&gt;
-&lt;p&gt;Sua mensagem foi recebida!&lt;br&gt;
-Obrigado!&lt;/p&gt;
-&lt;p&gt;Em breve responderei!&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>Sobre</title><link>https://gustavovalerio.com.br/sobre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/sobre/</guid><description>&lt;h4 id="o-autor"&gt;O Autor&lt;/h4&gt;
+&lt;/div&gt;</description></item><item><title>Gabriel Zanon Garcia</title><link>https://gustavovalerio.com.br/autor/gabriel-zanon-garcia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/gabriel-zanon-garcia/</guid><description>&lt;p&gt;GABRIEL ZANON GARCIA nasceu no dia 05 de março de 1999 na cidade de Porto Alegre – RS.&lt;/p&gt;</description></item><item><title>Gilliard Santos</title><link>https://gustavovalerio.com.br/autor/gilliard-santos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/gilliard-santos/</guid><description>&lt;p&gt;Gilliard Santos da Silva nasceu em 04 de abril de 1988 e viveu toda sua infância e juventude no sertão de Madalena-CE. Em 2006 mudou-se para Fortaleza para estudar, tendo residido na histórica Casa do Estudante do Ceará.&lt;/p&gt;</description></item><item><title>Gustavo Valério Ferreira</title><link>https://gustavovalerio.com.br/autor/gustavo-valerio-ferreira/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/gustavo-valerio-ferreira/</guid><description>&lt;h2 id="o-autor"&gt;O Autor&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://gustavovalerio.com.br/img/autor/gustavo-valerio-ferreira.webp" alt="Gustavo Valério Ferreira"&gt;
  &lt;figcaption&gt;Gustavo Valério Ferreira&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;p&gt;Nascido em Maceió/AL, no nordeste brasileiro, tornei-me escritor compulsivo aos dez anos.&lt;/p&gt;</description></item></channel></rss>
+&lt;/figure&gt;&lt;p&gt;Nascido em Maceió/AL, no nordeste brasileiro, tornei-me escritor compulsivo aos dez anos.&lt;/p&gt;</description></item><item><title>Luciano Dídimo</title><link>https://gustavovalerio.com.br/autor/luciano-didimo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/autor/luciano-didimo/</guid><description>&lt;p&gt;Luciano Dídimo Camurça Vieira nasceu em Fortaleza, no Ceará, em 22 de fevereiro de 1971. É poeta e escritor.&lt;/p&gt;</description></item><item><title>Mensagem Recebida</title><link>https://gustavovalerio.com.br/email-enviado/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gustavovalerio.com.br/email-enviado/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Sua mensagem foi recebida!&lt;br&gt;
+Obrigado!&lt;/p&gt;
+&lt;p&gt;Em breve responderei!&lt;/p&gt;&lt;/blockquote&gt;</description></item></channel></rss>
